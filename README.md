@@ -2,7 +2,7 @@
 
 ## Description
 
-Phantom Wallet connection is working on desktop, but not on android device, giving back `WalletNotReadyError`
+Phantom Wallet connection is working on desktop, on android device, giving back `Wallet is Ready`
 
 ## Versions
 
